@@ -10,8 +10,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //imprime 
             Console.WriteLine();
+
+            //captura o que foi digitado
             Console.ReadLine();
+
         }
     }
 }
